@@ -1,0 +1,28 @@
+footer {
+  height: 220px;
+  background-color: #3f3f3f;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 170px;
+  padding: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.footer-nav {
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+footer h2 {
+  color: rgb(167, 164, 164);
+  font-weight: 600;
+}
+
+.footer-navlink {
+  text-decoration: none;
+  color: #fff;
+  width: fit-content;
+}
